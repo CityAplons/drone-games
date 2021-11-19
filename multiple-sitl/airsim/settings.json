@@ -4,6 +4,8 @@
     "Vehicles": {
         "PX4": {
             "VehicleType": "PX4Multirotor",
+            "QgcHostIp": "127.0.0.1",
+            "QgcPort": 14550,
             "Sensors":{
                 "Barometer":{
                     "SensorType": 1,
